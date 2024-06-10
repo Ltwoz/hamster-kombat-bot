@@ -19,7 +19,7 @@
 This method allows you to use only one session (you don't need to recreate it everytime)
 
 1. Open [Telegram Web](https://web.telegram.org)
-2. Open [Hamster Kombat Bot](https://web.telegram.org/k/#@hamster_kombat_bot)
+2. Open [Hamster Kombat Bot](https://web.telegram.org/a/#7018368922)
 3. Open Dev Tools (`Command+Option+I / F12 or Control+Shift+I`)
 4. Press `Command+O / Control+O` and open file `telegram-web-app.js`.
 5. In file find string `Object.defineProperty(WebApp, 'platform',`, it should be on 1325 position
@@ -32,12 +32,12 @@ If you can see the coin and doesn't see an message that you should use mobile th
 
 1. Install [Violentmonkey](https://violentmonkey.github.io/)
 2. Open Dev Tools (`Command+Option+I / F12 or Control+Shift+I`)
-3. Add script from [script.js](https://github.com/Ltwoz/hamster-kombat-bot/blob/main/script.js) into Violentmonkey
-4. Open [Hamster Kombat Bot](https://web.telegram.org/k/#@hamster_kombat_bot)
+3. Add script from [script.js](https://github.com/Ltwoz/hamster-kombat-bot/blob/master/script.js) into Violentmonkey
+4. Open [Hamster Kombat Bot](https://web.telegram.org/a/#7018368922)
 5. Refresh the page
 
 If something breaks, just try to reload the page.
 
 ### Script
 
-You can find it [here in script.js](https://github.com/Ltwoz/hamster-kombat-bot/blob/main/script.js)
+You can find it [here in script.js](https://github.com/Ltwoz/hamster-kombat-bot/blob/master/script.js)
